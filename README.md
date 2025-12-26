@@ -1,5 +1,7 @@
 # Hex World Generator
 
+<img width="2315" height="1803" alt="map" src="https://github.com/user-attachments/assets/9ac65b0f-871a-4036-a7c8-998f95a8f788" />
+
 This project is a procedural hex based world generator that produces a rendered map image, a JSON map description, and a grayscale topography image. It is designed for board game style maps and works especially well for Catan style resource and number layouts.
 
 The generator builds continents, oceans, mountains, hills, rivers, lakes, climate zones, and biomes using layered noise fields and hex grid algorithms. The output is fully deterministic based on a single seed value.
