@@ -6,7 +6,7 @@ This project is a procedural hex based world generator that produces a rendered 
 
 The generator builds continents, oceans, mountains, hills, rivers, lakes, climate zones, and biomes using layered noise fields and hex grid algorithms. The output is fully deterministic based on a single seed value.
 
-All example and preview images for this project were created using Retro Diffusion  
+All images and tiles for this were made with Retro Diffusion:
 https://www.retrodiffusion.ai/
 
 ---
